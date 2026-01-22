@@ -20,7 +20,8 @@ public class HelloWorld {
 }
 
     public void f3() {
-    System.out.println("f3");
+    System.out.println("f3 (hotfix)");
+
 }
 
     
