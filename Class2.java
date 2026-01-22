@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Manas Gnawali
  */
 
 public class Class2 {
