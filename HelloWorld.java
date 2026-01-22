@@ -23,6 +23,10 @@ public class HelloWorld {
     System.out.println("f3");
 }
 
+public void f4() {
+    System.out.println("f4");
+}
+
     
 
 }
